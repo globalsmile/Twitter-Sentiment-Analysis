@@ -1,6 +1,6 @@
 # Twitter Analysis of #NG30DaysOfLearning
 
-<img align="right" alt="Snoring Partner" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/184046148-d4e111a6-8eb7-40cb-a830-ed3fd2a507e3.png">
+<img align="right" alt="Tweets" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/184046148-d4e111a6-8eb7-40cb-a830-ed3fd2a507e3.png">
 
 ---
 
@@ -69,6 +69,7 @@ The dataset used in this analysis was scrapped from twitter using the python cod
      
 
 - The dataset is also available at [30DLTweets](https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Twitter%20Data%20Web%20Scrape/30DLTweets.csv)
+
 ---
 
 # Data Transformation
@@ -124,8 +125,6 @@ After the dataset was cleaned and transformed, it was ready to be modeled.
 - A `one-to-many (*:1) relationship` was created between the `Tweet_Analysis` and the `Calender` tables using the `date` column in each of the tables 
 - The realtioships formed in the data model is shown below:
 
-<img align="right" alt="Data Model" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/183560342-f5e144bd-ffe1-476e-a264-172b0b23462f.png">
-
 ---
 
 # Data Visualization
@@ -141,19 +140,19 @@ Figure 1 shows visualizations from `Content Analysis` worksheet
 
 | Figure 1 |
 | ----------- |
-| ![image](https://user-images.githubusercontent.com/106287208/183564662-5a1714c7-610e-45f7-be17-6ae94c6a4628.png) |
+| ![image](https://user-images.githubusercontent.com/106287208/184047582-a51ce75a-ccb9-4157-a42f-3dd7f86a0748.png) |
 
 Figure 2 shows visualizations from `Summary` worksheet
 
 | Figure 2 |
 | ----------- |
-| ![image](https://user-images.githubusercontent.com/106287208/183564662-5a1714c7-610e-45f7-be17-6ae94c6a4628.png) |
+| ![image](https://user-images.githubusercontent.com/106287208/184047639-6a4fe424-b0e2-4f4f-a7e7-1fb79c33afa6.png) |
 
 Figure 3 shows visualizations from `Dashboard` worksheet
 
 | Figure 3 |
 | ----------- |
-| ![image](https://user-images.githubusercontent.com/106287208/183564662-5a1714c7-610e-45f7-be17-6ae94c6a4628.png) |
+| ![image](https://user-images.githubusercontent.com/106287208/184047713-78bcfb2c-a8b1-4066-ac09-69b095a4a056.png) |
 
 ---
 
@@ -178,7 +177,7 @@ As shown from [Data Visualization](https://github.com/globalsmile/Twitter-Analys
 
 As shown by [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization), It can be deducted that:
 
-- The most active user of the #NG30DaysOfLearning is the Oyinbooke
+- The most active user of the #NG30DaysOfLearning is [theoyinbooke](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1379718)
 - The most mentioned tool is Github
 
 ---
