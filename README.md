@@ -44,26 +44,28 @@ For this study we examined a variety of categories: the number of tweets, number
 The dataset used in this analysis was scrapped from twitter using the python code below on jupyter notebook:
 
 
-`import pandas as pd
-import snscrape.modules.twitter as sntwitter
-
-query = "(#30DaysOfLearning OR #NG30DaysOfLearning) until:2022-06-26 since:2022-05-01"
-tweets = []
-limit = 30000
-
-
-for tweet in sntwitter.TwitterHashtagScraper(query).get_items():
     
-    if len(tweets) == limit:
-        break
-    else:
-        tweets.append([tweet.date, tweet.url, tweet.user.username, tweet.sourceLabel, tweet.user.location, tweet.content, tweet.likeCount, tweet.retweetCount,  tweet.quoteCount, tweet.replyCount])
+     
+      `
+      import pandas as pd
+      import snscrape.modules.twitter as sntwitter
+      query = "(#30DaysOfLearning OR #NG30DaysOfLearning) until:2022-06-26 since:2022-05-01"
+      tweets = []
+      limit = 30000
+
+
+      for tweet in sntwitter.TwitterHashtagScraper(query).get_items():
+    
+             if len(tweets) == limit:
+                     break
+             else:
+                     tweets.append([tweet.date, tweet.url, tweet.user.username, tweet.sourceLabel, tweet.user.location, tweet.content,                        tweet.likeCount, tweet.retweetCount,  tweet.quoteCount, tweet.replyCount])
         
-df = pd.DataFrame(tweets, columns=['Date', 'TweetURL','User', 'Source', 'Location', 'Tweet', 'Likes_Count','Retweet_Count', 'Quote_Count', 'Reply_Count'])
+      df = pd.DataFrame(tweets, columns=['Date', 'TweetURL','User', 'Source', 'Location', 'Tweet', 'Likes_Count','Retweet_Count',               'Quote_Count', 'Reply_Count'])
 
-df.to_csv('30DLTweets.csv')
-
-df.head()`
+      df.to_csv('30DLTweets.csv')
+      df.head()
+      `
 
 - The dataset is also available at [30DLTweets](https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Twitter%20Data%20Web%20Scrape/30DLTweets.csv)
 ---
