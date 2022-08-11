@@ -123,7 +123,6 @@ After the dataset was cleaned and transformed, it was ready to be modeled.
 
 - The `Calender` table was marked as the official date table in the dataset.
 - A `one-to-many (*:1) relationship` was created between the `Tweet_Analysis` and the `Calender` tables using the `date` column in each of the tables 
-- The realtioships formed in the data model is shown below:
 
 ---
 
