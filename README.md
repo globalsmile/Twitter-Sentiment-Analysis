@@ -103,7 +103,7 @@ Data Cleaning for the dataset was done in power query as follows:
 - The extracted column was renamed to `Date ` 
 - Unnecessary column (` Serial No`)  was removed
 
-To ensure the accuracy of the dates in the `Date` column each of the tables, a date table was created for referencing using the M-formula:
+To ensure the accuracy of the dates in the `Date` column of each of the tables, a date table was created for referencing using the M-formula:
 
 `{Number.From(List.Min(Transactions[Date]))..Number.From(List.Max(Transactions[Date]))}`
 
