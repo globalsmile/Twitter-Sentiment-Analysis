@@ -279,10 +279,10 @@ Data transformation was done in Power Query and the dataset was loaded into Micr
 
 The dataset contains a table named `30DLTweets` :
 
-- `30DLTweets` has `11 columns and 680 rows` of observation
+- `30DLTweets` has `10 columns and 684 rows` of observation
 
 
-The tabulation below shows the `Tweet_Analysis` table with its column names and their description:
+The tabulation below shows the `30DLTweets` table with its column names and their description:
 | Column Name | Description |
 | ----------- | ----------- |
 | Date | Represents the date and time of tweet |
