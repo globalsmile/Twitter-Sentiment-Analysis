@@ -10,7 +10,7 @@
 - [Introduction](https://github.com/globalsmile/Twitter-Analysis#introduction)
 - [Problem Statement](https://github.com/globalsmile/Twitter-Analysis#Problem-Statement)
 - [Data Sourcing](https://github.com/globalsmile/Twitter-Analysis#Data-Sourcing)
-- [Data Transformation](https://github.com/globalsmile/Twitter-Analysis#Data-Transformation)
+- [Data Preparation](https://github.com/globalsmile/Twitter-Analysis#Data-Preparation)
 - [Data Modeling](https://github.com/globalsmile/Twitter-Analysis#Data-Modeling)
 - [Data Visualization](https://github.com/globalsmile/Twitter-Analysis#Data-Visualization)
 - [Data Analysis](https://github.com/globalsmile/Twitter-Analysis#Data-Analysis)
@@ -273,7 +273,7 @@ The dataset is also available at [30DLTweets](https://github.com/globalsmile/Twi
 
 ---
 
-# Data Cleaning & Transformation
+# Data Preparation
 
 Data transformation was done in Power Query and the dataset was loaded into Microsoft Power BI Desktop for modeling.
 
