@@ -289,7 +289,7 @@ The tabulation below shows the `Tweet_Analysis` table with its column names and 
 | TweetURL | Describes the tweet url |
 | User | Describes the username of the user |
 | Source| Descibes the device type of the user  |
-| Location | describes the location of the user |
+| Location | Describes the location of the user |
 | Tweet | Describes the content of the tweet |
 | Likes_Count | Represents the count of likes of the tweet |
 | Retweet_Count | Represents the count of retweets of the tweet |
