@@ -273,19 +273,18 @@ The dataset is also available at [30DLTweets](https://github.com/globalsmile/Twi
 
 ---
 
-# Data Transformation
+# Data Cleaning & Transformation
 
 Data transformation was done in Power Query and the dataset was loaded into Microsoft Power BI Desktop for modeling.
 
-The dataset contains a table named `Tweet_Analysis` :
+The dataset contains a table named `30DLTweets` :
 
-- `Tweet_Analysis` has `11 columns and 680 rows` of observation
+- `30DLTweets` has `11 columns and 680 rows` of observation
 
 
 The tabulation below shows the `Tweet_Analysis` table with its column names and their description:
 | Column Name | Description |
 | ----------- | ----------- |
-| Serial No | Represents the count of the tweet |
 | Date | Represents the date and time of tweet |
 | TweetURL | Describes the tweet url |
 | User | Describes the username of the user |
