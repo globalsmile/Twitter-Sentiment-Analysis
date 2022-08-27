@@ -269,7 +269,7 @@ df.describe()
 
 
 
-The dataset is also available at [30DLTweets](https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Twitter%20Data%20Web%20Scrape/30DLTweets.csv)
+The dataset is also available at [30DLTweets](https://github.com/globalsmile/Twitter-Analysis/blob/main/30DLTweets.csv)
 
 ---
 
