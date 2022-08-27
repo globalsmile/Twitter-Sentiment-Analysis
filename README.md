@@ -33,7 +33,7 @@ across these knowledge areas; Data Analysis Using Power BI, Low-code/No-Code App
 
 # Problem Statement
 
-The purpose of this analysis is to analyze the number of engagements of the #NG30DaysofLearning has on twitter.
+The purpose of this analysis is to gain insights into the number of engagements the #NG30DaysofLearning has on twitter.
 
 For this study we examined a variety of categories: the number of tweets, number of users, the most active users, the most mentioned tools e.t.c
 
