@@ -328,7 +328,7 @@ After the dataset was cleaned and transformed, it was ready to be modeled.
 - The `Calender` table was marked as the official date table in the dataset.
 - A `one-to-many (*:1) relationship` was created between the `TweetStats` and the `Calender` tables using the `date` column in each of the tables 
 - A `one-to-many (*:1) relationship` was created between the `UserProfile` and the `TweetStats` tables using the `UserID` column in each of the tables 
-- - The realtioships formed in the data model is a `Star Schema` and is shown below:
+- The realtioships formed in the data model is a `Star Schema` and is shown below:
 
 <img align="right" alt="Data Model" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/187041514-ffb3317b-555e-40e1-877a-f6494523b3be.png">
 
