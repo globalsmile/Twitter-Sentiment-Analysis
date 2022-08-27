@@ -279,7 +279,7 @@ Data transformation was done in Power Query and the dataset was loaded into Micr
 
 The dataset contains a table named `30DLTweets` :
 
-- `30DLTweets` has `10 columns and 684 rows` of observation
+- `30DLTweets` has `10 columns and 680 rows` of observation
 
 
 The tabulation below shows the `30DLTweets` table with its column names and their description:
@@ -298,14 +298,17 @@ The tabulation below shows the `30DLTweets` table with its column names and thei
 
 Data Cleaning for the dataset was done in power query as follows:
 
-- The `Location` column was filtered to remove empty rows and values
-- Date only was extracted from the `Date` column
-- The extracted column was renamed to `Date ` 
-- Unnecessary column (` Serial No`)  was removed
+- The `30DLTweets` table was split into dimension and fact tables respectively, hence called:
+1. `UserProfile`
+2. `TweetStats`
 
-To ensure the accuracy of the dates in the `Date` column of each of the tables, a date table was created for referencing using the M-formula:
+- Unnecessary columns were removed
+- Each column was validated to have the correct data type
 
-`{Number.From(List.Min(Transactions[Date]))..Number.From(List.Max(Transactions[Date]))}`
+
+To ensure the accuracy of the dates in the `Date` column in the `TweetStats` table, a date table was created for referencing using the M-formula:
+
+`{Number.From(List.Min(TweetStats[Date]))..Number.From(List.Max(TweetStats[Date]))}`
 
 Here is a breakdown of what the formula does:
 
