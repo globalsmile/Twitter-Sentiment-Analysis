@@ -41,7 +41,9 @@ For this study we examined a variety of categories: the number of tweets, number
 
 # Data Sourcing
 
-The dataset used in this analysis was scrapped from twitter using the python code below on jupyter notebook:
+- The dataset used for this analysis was scrapped from twitter using the python and jupyter notebook
+- The preview of the dataset and python code is shown below:
+
 
 ```python
 !pip install snscrape
@@ -267,11 +269,7 @@ df.describe()
 
 
 
-```python
-
-```
-
-- The dataset is also available at [30DLTweets](https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Twitter%20Data%20Web%20Scrape/30DLTweets.csv)
+The dataset is also available at [30DLTweets](https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Twitter%20Data%20Web%20Scrape/30DLTweets.csv)
 
 ---
 
