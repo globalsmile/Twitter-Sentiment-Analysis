@@ -303,14 +303,14 @@ Data Cleaning for the dataset was done in power query as follows:
 2. `TweetStats`
 3. `TweetProfile`
 
-- A custom column `UserID` was created in each of the tables using the M-formula `UserID = [User] & "_" & [Source]`
-- Unnecessary columns were removed in both tables
+- A calculated column `UserID` was created in each of the tables using the M-formula `UserID = [User] & "_" & [Source]`
+- Unnecessary columns were removed in each of the tables
 - Each of the columns in the tables were validated to have the correct data type
 
 
 To ensure the accuracy of the dates in the `Date` column of `TweetStats` and `TweetProfile` tables, a date table was created for referencing using the M-formula:
 
-`{Number.From(List.Min(TweetStats[Date]))..Number.From(List.Max(TweetStats[Date]))}`
+`{Number.From(List.Min(TweetProfile[Date]))..Number.From(List.Max(TweetProfile[Date]))}`
 
 Here is a breakdown of what the formula does:
 
