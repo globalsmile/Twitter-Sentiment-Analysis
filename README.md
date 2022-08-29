@@ -298,16 +298,17 @@ The tabulation below shows the `30DLTweets` table with its column names and thei
 
 Data Cleaning for the dataset was done in power query as follows:
 
-- The `30DLTweets` table was split into dimension and fact tables respectively, hence called:
+- The `30DLTweets` table was split into a dimension and  2 fact tables respectively, hence called:
 1. `UserProfile`
 2. `TweetStats`
+3. `TweetProfile`
 
 - A custom column `UserID` was created in each of the tables using the M-formula `UserID = [User] & "_" & [Source]`
 - Unnecessary columns were removed in both tables
 - Each of the columns in the tables were validated to have the correct data type
 
 
-To ensure the accuracy of the dates in the `Date` column in the `TweetStats` table, a date table was created for referencing using the M-formula:
+To ensure the accuracy of the dates in the `Date` column of `TweetStats` and `TweetProfile` tables, a date table was created for referencing using the M-formula:
 
 `{Number.From(List.Min(TweetStats[Date]))..Number.From(List.Max(TweetStats[Date]))}`
 
