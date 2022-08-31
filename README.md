@@ -398,4 +398,4 @@ As shown by [Data Visualization](https://github.com/globalsmile/Twitter-Analysis
 
 You can interact with the report here: 
 
-[Data Visualization](https://app.powerbi.com/view?r=eyJrIjoiZjMzMjk1ZDAtYzBjYy00OTZjLTk1YzQtMzI1MjE0NWFkOGYxIiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9)
+[Report](https://app.powerbi.com/view?r=eyJrIjoiZjMzMjk1ZDAtYzBjYy00OTZjLTk1YzQtMzI1MjE0NWFkOGYxIiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9)
