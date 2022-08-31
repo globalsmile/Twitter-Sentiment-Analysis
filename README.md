@@ -363,7 +363,7 @@ Figure 3 shows visualizations from `Dashboard` worksheet
 
 | Figure 3 |
 | ----------- |
-| ![image](https://user-images.githubusercontent.com/106287208/187567595-aa3285d5-9f94-4bec-b9b2-36572c57be82.png) |
+| ![image](https://user-images.githubusercontent.com/106287208/187677655-9bbd0398-f0fe-4af0-870f-f9e090633f13.png) |
 
 ---
 
