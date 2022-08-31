@@ -1,6 +1,6 @@
 # Twitter Analysis of #NG30DaysOfLearning
 
-<img align="right" alt="Tweets" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/184046148-d4e111a6-8eb7-40cb-a830-ed3fd2a507e3.png">
+<img align="right" alt="Tweets" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/187567112-ec593f73-7afe-4ef3-8c80-822591b89038.png">
 
 ---
 
@@ -351,19 +351,19 @@ Figure 1 shows visualizations from `Content Analysis` worksheet
 
 | Figure 1 |
 | ----------- |
-| ![image](https://user-images.githubusercontent.com/106287208/184047582-a51ce75a-ccb9-4157-a42f-3dd7f86a0748.png) |
+| ![image](https://user-images.githubusercontent.com/106287208/187567316-46bc6332-7507-4f11-b3c7-a18a52ed8e14.png) |
 
 Figure 2 shows visualizations from `Summary` worksheet
 
 | Figure 2 |
 | ----------- |
-| ![image](https://user-images.githubusercontent.com/106287208/184047639-6a4fe424-b0e2-4f4f-a7e7-1fb79c33afa6.png) |
+| ![image](https://user-images.githubusercontent.com/106287208/187567503-2db262f6-c7f2-449d-9b11-01ff7e084022.png) |
 
 Figure 3 shows visualizations from `Dashboard` worksheet
 
 | Figure 3 |
 | ----------- |
-| ![image](https://user-images.githubusercontent.com/106287208/184047713-78bcfb2c-a8b1-4066-ac09-69b095a4a056.png) |
+| ![image](https://user-images.githubusercontent.com/106287208/187567595-aa3285d5-9f94-4bec-b9b2-36572c57be82.png) |
 
 ---
 
@@ -378,9 +378,9 @@ Measures used in visualization are:
 
 As shown from [Data Visualization](https://github.com/globalsmile/Twitter-Analysis#Data-Visualization), It can be deducted that:
 
-- The were `480` tweets for the #NG30DaysOfLearning
-- The were about `148` users
-- The observation lasted  for `23` days
+- The were `680` tweets for the #NG30DaysOfLearning
+- The were about `234` users
+- The average engagement rate is `34%` 
 
 ---
 
