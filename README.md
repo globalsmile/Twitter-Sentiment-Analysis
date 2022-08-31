@@ -371,9 +371,10 @@ Figure 3 shows visualizations from `Dashboard` worksheet
 
 Measures used in visualization are:
 
-- Total Tweets = `SUM(Tweet_Analysis[Tweet])`
-- Total Users = `SUM(Tweet_Analysis[user])`
-- Number of Days = `SUM(Tweet_Analysis[Date])`
+- Total No. of Tweets = `COUNT(TweetProfile[Tweet])`
+- Total No. of Users = `COUNT(UserProfile[user])`
+- Total No. of Sources = `COUNT(UserProfile[Source])`
+- Average Engagement Rate = `DIVIDE(Total No. of Users, Total No. of Tweets)`
 
 
 As shown from [Data Visualization](https://github.com/globalsmile/Twitter-Analysis#Data-Visualization), It can be deducted that:
@@ -386,15 +387,15 @@ As shown from [Data Visualization](https://github.com/globalsmile/Twitter-Analys
 
 # Insights
 
-As shown by [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization), It can be deducted that:
+As shown by [Data Visualization](https://github.com/globalsmile/Twitter-Analysis#Data-Visualization), It can be deducted that:
 
-- The most active user of the #NG30DaysOfLearning is [theoyinbooke](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1379718)
+- The most active user of the #NG30DaysOfLearning is [theoyinbooke](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1379718) with 110 tweets
 - The most mentioned tool is Github
 
 ---
 
 # Shareable Link
 
-You can interact with the dashboard here: 
+You can interact with the report here: 
 
-https://app.powerbi.com/view?r=eyJrIjoiMTUyNWU1NGMtODI1ZS00ZGVmLWFlYzEtYWI1NWE1YWUzOGYxIiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9
+[Data Visualization](https://app.powerbi.com/view?r=eyJrIjoiZjMzMjk1ZDAtYzBjYy00OTZjLTk1YzQtMzI1MjE0NWFkOGYxIiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9)
