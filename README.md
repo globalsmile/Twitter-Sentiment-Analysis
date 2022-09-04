@@ -7,15 +7,15 @@
 
 # Table of Contents
 
-- [Introduction](https://github.com/globalsmile/Twitter-Analysis#introduction)
-- [Problem Statement](https://github.com/globalsmile/Twitter-Analysis#Problem-Statement)
-- [Data Sourcing](https://github.com/globalsmile/Twitter-Analysis#Data-Sourcing)
-- [Data Preparation](https://github.com/globalsmile/Twitter-Analysis#Data-Preparation)
-- [Data Modeling](https://github.com/globalsmile/Twitter-Analysis#Data-Modeling)
-- [Data Visualization](https://github.com/globalsmile/Twitter-Analysis#Data-Visualization)
-- [Data Analysis](https://github.com/globalsmile/Twitter-Analysis#Data-Analysis)
-- [Insights](https://github.com/globalsmile/Twitter-Analysis#Insights)
-- [Shareable link](https://github.com/globalsmile/Twitter-Analysis#Shareable-Link)
+- [Introduction](https://github.com/globalsmile/Twitter-Sentiment-Analysis#introduction)
+- [Problem Statement](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Problem-Statement)
+- [Data Sourcing](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Sourcing)
+- [Data Preparation](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Preparation)
+- [Data Modeling](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Modeling)
+- [Data Visualization](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Visualization)
+- [Data Analysis](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Analysis)
+- [Insights](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Insights)
+- [Shareable link](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Shareable-Link)
 
 
 ---
@@ -269,7 +269,7 @@ df.describe()
 
 
 
-The dataset is also available at [30DLTweets](https://github.com/globalsmile/Twitter-Analysis/blob/main/30DLTweets.csv)
+The dataset is also available at [30DLTweets](https://github.com/globalsmile/Twitter-Sentiment-Analysis/blob/main/30DLTweets.csv)
 
 ---
 
@@ -344,7 +344,7 @@ Data visualization for the datasets was done in 3 folds using Microsoft Power BI
 
 - The `Content Analysis`: Shows the tools by mention, word cloud, Top active users, etc.
 -  The `Summary`: Shows the total number of tweets, total number of users, Tweet by day of the week, etc.
--  The `Dashboard`: Shows visualization from `Content Analysis` and `Summary` to provide answer to the [Problem Statement](https://github.com/globalsmile/Twitter-Analysis#Problem-Statement).
+-  The `Dashboard`: Shows visualization from `Content Analysis` and `Summary` to provide answer to the [Problem Statement](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Problem-Statement).
 
 
 Figure 1 shows visualizations from `Content Analysis` worksheet
@@ -377,7 +377,7 @@ Measures used in visualization are:
 - Average Engagement Rate = `DIVIDE(Total No. of Users, Total No. of Tweets)`
 
 
-As shown from [Data Visualization](https://github.com/globalsmile/Twitter-Analysis#Data-Visualization), It can be deducted that:
+As shown from [Data Visualization](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Visualization), It can be deducted that:
 
 - The were `680` tweets for the #NG30DaysOfLearning
 - The were about `234` users
@@ -387,7 +387,7 @@ As shown from [Data Visualization](https://github.com/globalsmile/Twitter-Analys
 
 # Insights
 
-As shown by [Data Visualization](https://github.com/globalsmile/Twitter-Analysis#Data-Visualization), It can be deducted that:
+As shown by [Data Visualization](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Visualization), It can be deducted that:
 
 - The most active user of the #NG30DaysOfLearning is [theoyinbooke](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1379718) with 110 tweets
 - The most mentioned tool is Github
