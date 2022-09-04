@@ -41,7 +41,7 @@ For this study we examined a variety of categories: the number of tweets, number
 
 # Data Sourcing
 
-- The dataset used for this analysis was scrapped from twitter using the python and jupyter notebook
+- The dataset used for this analysis was scrapped from twitter using python and jupyter notebook
 - The preview of the dataset and python code is shown below:
 
 
