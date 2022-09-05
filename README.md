@@ -347,19 +347,19 @@ Data visualization for the datasets was done in 3 folds using Microsoft Power BI
 -  The `Dashboard`: Shows visualization from `Content Analysis` and `Summary` to provide answer to the [Problem Statement](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Problem-Statement).
 
 
-Figure 1 shows visualizations from `Content Analysis` worksheet
+Figure 1 shows visualizations from `Content Analysis` page
 
 | Figure 1 |
 | ----------- |
 | ![image](https://user-images.githubusercontent.com/106287208/187567316-46bc6332-7507-4f11-b3c7-a18a52ed8e14.png) |
 
-Figure 2 shows visualizations from `Summary` worksheet
+Figure 2 shows visualizations from `Summary` page
 
 | Figure 2 |
 | ----------- |
 | ![image](https://user-images.githubusercontent.com/106287208/187567503-2db262f6-c7f2-449d-9b11-01ff7e084022.png) |
 
-Figure 3 shows visualizations from `Dashboard` worksheet
+Figure 3 shows visualizations from `Dashboard` page
 
 | Figure 3 |
 | ----------- |
