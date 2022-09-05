@@ -377,7 +377,7 @@ Measures used in visualization are:
 - Average Engagement Rate = `DIVIDE(Total No. of Users, Total No. of Tweets)`
 
 
-As shown from [Data Visualization](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Visualization), It can be deducted that:
+As shown from [Data Visualization](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Visualization), It can be deduced that:
 
 - The were `680` tweets for the #NG30DaysOfLearning
 - The were about `234` users
@@ -387,7 +387,7 @@ As shown from [Data Visualization](https://github.com/globalsmile/Twitter-Sentim
 
 # Insights
 
-As shown by [Data Visualization](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Visualization), It can be deducted that:
+As shown by [Data Visualization](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Visualization), It can be deduced that:
 
 - The most active user of the #NG30DaysOfLearning is [theoyinbooke](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1379718) with 110 tweets
 - The most mentioned tool is Github
