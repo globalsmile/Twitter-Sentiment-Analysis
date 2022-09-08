@@ -276,9 +276,9 @@ The dataset is also available at [30DLTweets](https://github.com/globalsmile/Twi
 
 Data transformation was done in Power Query and the dataset was loaded into Microsoft Power BI Desktop for modeling.
 
-The dataset contains a table named `30DLTweets` :
+The Twiiter Sentiment dataset is contained in a table named:
 
-- `30DLTweets` has `10 columns and 680 rows` of observation
+- `30DLTweets` which has `10 columns and 680 rows` of observation
 
 
 The tabulation below shows the `30DLTweets` table with its column names and their description:
