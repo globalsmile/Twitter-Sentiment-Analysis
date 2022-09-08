@@ -287,7 +287,7 @@ The tabulation below shows the `30DLTweets` table with its column names and thei
 | Date | Represents the date and time of tweet |
 | TweetURL | Describes the tweet url |
 | User | Describes the username of the user |
-| Source| Descibes the device type of the user  |
+| Source | Descibes the device type of the user  |
 | Location | Describes the location of the user |
 | Tweet | Describes the content of the tweet |
 | Likes_Count | Represents the count of likes of the tweet |
