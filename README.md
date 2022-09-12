@@ -7,7 +7,6 @@
 
 # Table of Contents
 
-- [Introduction](https://github.com/globalsmile/Twitter-Sentiment-Analysis#introduction)
 - [Problem Statement](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Problem-Statement)
 - [Data Sourcing](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Sourcing)
 - [Data Preparation](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Preparation)
@@ -16,16 +15,6 @@
 - [Data Analysis](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Analysis)
 - [Insights](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Insights)
 - [Shareable link](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Shareable-Link)
-
-
----
-
-# Introduction
-
-
-The 30Days of Learning programme is organized by the team at Microsoft to help students upkill with Microsoft technologies by learning and building solutions 
-across these knowledge areas; Data Analysis Using Power BI, Low-code/No-Code Application Development using Power Platform, and Data Science and Machine Learning with Azure...
-[Learn More](https://techcommunity.microsoft.com/t5/educator-developer-blog/onboarding-guide-for-30days-of-learning-participants/ba-p/3485136)
 
 
 ---
