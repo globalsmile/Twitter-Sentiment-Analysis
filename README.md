@@ -328,7 +328,7 @@ After the dataset was cleaned and transformed, it was ready to be modeled.
 
 # Data Visualization
 
-Data visualization for the datasets was done in 3 folds using Microsoft Power BI Desktop:
+Data visualization for the dataset was done in 3 folds using Microsoft Power BI Desktop:
 
 - The `Content Analysis`: Shows the tools by mention, word cloud, Top active users, etc.
 -  The `Summary`: Shows the total number of tweets, total number of users, Tweet by day of the week, etc.
