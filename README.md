@@ -29,7 +29,7 @@ For this study we examined a variety of categories: the number of tweets, number
 
 # Data Sourcing
 
-- The dataset used for this analysis was scrapped from twitter using python and jupyter notebook
+- The dataset used for this analysis was scrapped from twitter jupyter notebook
 - The preview of the dataset and python code is shown below:
 
 
@@ -265,7 +265,7 @@ The dataset is also available at [30DLTweets](https://github.com/globalsmile/Twi
 
 Data transformation was done in Power Query and the dataset was loaded into Microsoft Power BI Desktop for modeling.
 
-The Twitter Sentiment dataset is contained in a table named:
+The Twitter Sentiment dataset is given by a table named:
 
 - `30DLTweets` which has `10 columns and 680 rows` of observation
 
@@ -330,8 +330,8 @@ After the dataset was cleaned and transformed, it was ready to be modeled.
 
 Data visualization for the dataset was done in 3 folds using Microsoft Power BI Desktop:
 
-- The `Content Analysis`: Shows the tools by mention, word cloud, Top active users, etc.
--  The `Summary`: Shows the total number of tweets, total number of users, Tweet by day of the week, etc.
+- The `Content Analysis`: Shows the tools by mention, word cloud, top active users, etc.
+-  The `Summary`: Shows the total number of tweets, total number of users, tweet by day of the week, etc.
 -  The `Dashboard`: Shows visualization from `Content Analysis` and `Summary` to provide answer to the [Problem Statement](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Problem-Statement).
 
 
