@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis of #NG30DaysOfLearning
 
-<img align="right" alt="Twitter Sentiment Analysis" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/187567112-ec593f73-7afe-4ef3-8c80-822591b89038.png">
+<img align="right" alt="Twitter Sentiment Analysis" width="1000" height = "500" src="https://user-images.githubusercontent.com/106287208/187567503-2db262f6-c7f2-449d-9b11-01ff7e084022.png">
 
 ---
 
